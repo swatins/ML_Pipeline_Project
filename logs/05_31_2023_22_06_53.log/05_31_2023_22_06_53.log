@@ -1,0 +1,50 @@
+[ 2023-05-31 22:06:53,288] 186 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-05-31 22:06:53,288] 186 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-05-31 22:06:53,290] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 22:06:53,649] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-31 22:06:53,652] 186 werkzeug - INFO -  * Debugger PIN: 575-973-295
+[ 2023-05-31 22:08:40,421] 8 root - INFO - WE r testing logging methods
+[ 2023-05-31 22:08:40,422] 186 werkzeug - INFO - 127.0.0.1 - - [31/May/2023 22:08:40] "GET / HTTP/1.1" 200 -
+[ 2023-05-31 22:08:40,476] 186 werkzeug - INFO - 127.0.0.1 - - [31/May/2023 22:08:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-05-31 23:30:08,822] 186 werkzeug - INFO -  * Detected change in 'F:\\SHIVAN KUMAR\\Intern\\ML_Pipeline_Project\\src\\exception.py', reloading
+[ 2023-05-31 23:30:08,895] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:17,586] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:21,204] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:24,795] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:27,374] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:29,019] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:31,542] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:33,111] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:35,673] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:37,234] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:42,070] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:43,860] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:46,447] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:48,065] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:50,701] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:52,328] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:31:55,903] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:00,572] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:12,327] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:15,951] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:17,538] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:19,409] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:25,133] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:31,014] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:33,654] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:39,377] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:41,950] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:48,679] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:50,393] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:32:55,102] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:33:12,004] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:33:14,653] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:35:37,716] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:37:29,230] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:38:06,403] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:38:15,057] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:40:01,803] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:40:07,454] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:41:40,825] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 23:44:35,764] 186 werkzeug - INFO -  * Restarting with stat
