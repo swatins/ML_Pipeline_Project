@@ -5,12 +5,15 @@ from src.logger import logging
 from src.exception import CustomException
 from dataclasses import dataclass
 from sklearn .model_selection import train_test_split
+from src.components.data_transformation import DataTransformation
+
+
 
 @dataclass
 class DataIngestionConfig:
-    train_data_path = os.path.join("artifacts","train.csv")
-    test_data_path= os.path.join("artifacts","test.csv")
-    raw_data_path= os.path.join("artifacts","raw.csv")
+    train_data_path = os.path.join("artifacts/data_ingestion","train.csv")
+    test_data_path= os.path.join("artifacts/data_ingestion","test.csv")
+    raw_data_path= os.path.join("artifacts/data_ingestion","raw.csv")
     
   #notebook\data\adult.csv  
 class DataIngestion:
@@ -30,7 +33,7 @@ class DataIngestion:
             data.to_csv(self.ingestion_config.raw_data_path, index= False)
             
           
-            logging.info("DData is splitted in train and test!!")
+            logging.info("Data is splitted in train and test!!")
             train_set,test_set = train_test_split(data,test_size=0.30,random_state=42)
             
                        
@@ -50,6 +53,13 @@ class DataIngestion:
         
 if __name__=="__main__":
     obj=DataIngestion()
-    obj.initiate_data_ingestion()
+    train_data_path, test_data_path = obj.initiate_data_ingestion()
     
-    #src\components\data.ingestion.py
+    data_transformation= DataTransformation()
+    train_arr, test_arr, _= data_transformation.initiate_data_transformation(train_data_path, test_data_path)
+    
+    
+    
+    
+    # src\components\data.ingestion.py
+      

@@ -1,0 +1,6 @@
+[ 2023-06-04 15:11:50,314] 25 root - INFO - Data ingestion is started!!
+[ 2023-06-04 15:11:50,314] 27 root - INFO - Data Reading using Pandas library local system
+[ 2023-06-04 15:11:50,496] 30 root - INFO - Data reading completed!!
+[ 2023-06-04 15:11:50,881] 36 root - INFO - DData is splitted in train and test!!
+[ 2023-06-04 15:11:51,452] 44 root - INFO - Data ingestion completed!!
+[ 2023-06-04 15:11:51,794] 69 root - INFO - Outliers handling code
